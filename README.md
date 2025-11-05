@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Tech stack
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://your-portfolio-link.com)
 
 #### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
